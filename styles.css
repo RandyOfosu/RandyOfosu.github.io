@@ -45,9 +45,11 @@ body {
 .introductie_paragraaf {
   padding: 20px;
   margin: 0% 30% 0% 30%;
+  font-family: "Roboto", sans-serif;
 }
 .introductie_koptekst {
   margin: 5% 20% 0% 30%;
+  font-family: "Roboto", sans-serif;
 }
 
 .foto_gallerij {
