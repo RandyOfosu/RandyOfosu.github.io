@@ -39,3 +39,37 @@ footer {
   color: black;
   text-align: center;
 }
+body {
+  background-color: rgba(255, 166, 0, 0.18);
+}
+.introductie_paragraaf {
+  padding: 20px;
+  margin: 0% 30% 0% 30%;
+}
+.introductie_koptekst {
+  margin: 5% 20% 0% 30%;
+}
+
+.foto_gallerij {
+  display: inline-block;
+  margin: 20px;
+}
+
+.foto1 {
+  width: 22%;
+}
+.foto2 {
+  width: 22%;
+}
+.foto3 {
+  width: 22%;
+}
+.foto4 {
+  width: 22%;
+}
+.foto5 {
+  width: 22%;
+}
+.foto6 {
+  width: 22%;
+}
