@@ -52,24 +52,30 @@ body {
 
 .foto_gallerij {
   display: inline-block;
-  margin: 20px;
+  margin: 0% 12% 0% 12%;
 }
 
 .foto1 {
   width: 22%;
+  padding: 5px;
 }
 .foto2 {
   width: 22%;
+  padding: 5px;
 }
 .foto3 {
   width: 22%;
+  padding: 5px;
 }
 .foto4 {
   width: 22%;
+  padding: 5px;
 }
 .foto5 {
   width: 22%;
+  padding: 5px;
 }
 .foto6 {
   width: 22%;
+  padding: 5px;
 }
