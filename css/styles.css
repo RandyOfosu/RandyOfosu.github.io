@@ -82,13 +82,117 @@ body {
 }
 
 #contactgegevens {
-  border: black;
+  border: none;
   width: 1000px;
-  height: 750px;
-  margin: 2% 5% 0% 20%;
-  background-color: white;
-  box-shadow: black -5px 5px 10px;
+  height: 500px;
+  margin: 15% 5% 0% 20%;
+  background-color: none;
+  box-shadow: none -5px 5px 10px;
 }
 .contactgegevens {
   margin: 0% 5% 0% 25%;
+}
+.contactbuttons {
+  width: 300px;
+  height: 100px;
+  background-color: black;
+  color: white;
+  border: orange;
+  border-width: 0px 5px 5px 0px;
+  border-style: solid;
+  display: inline-block;
+  box-shadow: brown -2px -1px 5px;
+  margin: 1%;
+  transition: 0.3s;
+}
+.contactbuttons:hover {
+  width: 300px;
+  height: 100px;
+  background-color: rgba(255, 0, 111, 0.865);
+  transition: 0.3s;
+}
+.contactbuttons1 {
+  width: 300px;
+  height: 100px;
+  background-color: black;
+  color: white;
+  border: orange;
+  border-width: 0px 5px 5px 0px;
+  border-style: solid;
+  display: inline-block;
+  box-shadow: brown -2px -1px 5px;
+  margin: 1%;
+  transition: 0.3s;
+}
+.contactbuttons1:hover {
+  width: 300px;
+  height: 100px;
+  background-color: rgba(119, 0, 255, 0.865);
+  transition: 0.3s;
+}
+.contactbuttons2 {
+  width: 300px;
+  height: 100px;
+  background-color: black;
+  color: white;
+  border: orange;
+  border-width: 0px 5px 5px 0px;
+  border-style: solid;
+  display: inline-block;
+  box-shadow: brown -2px -1px 5px;
+  margin: 1%;
+  transition: 0.3s;
+}
+.contactbuttons2:hover {
+  width: 300px;
+  height: 100px;
+  background-color: rgba(0, 94, 177, 0.92);
+  transition: 0.3s;
+}
+.contactbuttons3 {
+  width: 300px;
+  height: 100px;
+  background-color: black;
+  color: white;
+  border: orange;
+  border-width: 0px 5px 5px 0px;
+  border-style: solid;
+  display: inline-block;
+  box-shadow: brown -2px -1px 5px;
+  margin: 1%;
+  transition: 0.3s;
+}
+.contactbuttons3:hover {
+  width: 300px;
+  height: 100px;
+  background-color: rgba(0, 195, 255, 0.865);
+  transition: 0.3s;
+}
+.contactbuttons4 {
+  width: 300px;
+  height: 100px;
+  background-color: black;
+  color: white;
+  border: orange;
+  border-width: 0px 5px 5px 0px;
+  border-style: solid;
+  display: inline-block;
+  box-shadow: brown -2px -1px 5px;
+  margin: 1%;
+  transition: 0.3s;
+}
+.contactbuttons4:hover {
+  width: 300px;
+  height: 100px;
+  background-color: rgba(0, 199, 146, 0.865);
+  transition: 0.3s;
+}
+#contacttext {
+  text-align: center;
+  position: relative;
+  top: 34%;
+}
+#contacttext a {
+  text-decoration: none;
+  color: white;
 }
