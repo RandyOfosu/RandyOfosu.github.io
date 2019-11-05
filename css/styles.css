@@ -242,3 +242,7 @@ body {
   display: inline-block;
   margin: 0px 20px 0px 0px;
 }
+#project3:hover {
+  background-image: url(/project-portfolio-RandyOfosu/img/vlaggen.png);
+  opacity: 1;
+}
