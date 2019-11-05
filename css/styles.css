@@ -246,3 +246,27 @@ body {
   background-image: url(/project-portfolio-RandyOfosu/img/vlaggen.png);
   opacity: 1;
 }
+#hobby {
+  display: inline-block;
+  margin: 25px;
+}
+#hobby1 {
+  display: inline-block;
+  margin: 25px;
+}
+#hobby2 {
+  display: inline-block;
+  margin: 25px;
+}
+.image {
+  display: block;
+}
+
+.text {
+  color: black;
+  font-size: 20px;
+}
+.text a {
+  text-decoration: none;
+  color: black;
+}
