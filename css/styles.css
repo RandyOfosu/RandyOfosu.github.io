@@ -85,12 +85,14 @@ body {
   border: none;
   width: 1000px;
   height: 500px;
-  margin: 15% 5% 0% 20%;
+  margin: 11% 10% 0% 20%;
   background-color: none;
   box-shadow: none -5px 5px 10px;
 }
 .contactgegevens {
-  margin: 0% 5% 0% 25%;
+  margin: 5% 0% 0% 23%;
+  font-size: 27px;
+  font-family: "Roboto", sans-serif;
 }
 .contactbuttons {
   width: 300px;
