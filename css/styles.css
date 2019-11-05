@@ -89,11 +89,12 @@ body {
   background-color: none;
   box-shadow: none -5px 5px 10px;
 }
-.contactgegevens {
+.headerText {
   margin: 5% 0% 0% 23%;
   font-size: 27px;
   font-family: "Roboto", sans-serif;
 }
+
 .contactbuttons {
   width: 300px;
   height: 100px;
@@ -189,12 +190,55 @@ body {
   background-color: rgba(0, 199, 146, 0.865);
   transition: 0.3s;
 }
-#contacttext {
+#buttonText {
   text-align: center;
   position: relative;
   top: 34%;
 }
-#contacttext a {
+#buttonText a {
   text-decoration: none;
   color: white;
+}
+#projectenContainer {
+  height: 500px;
+  width: 1500px;
+  background-color: none;
+  margin: 5% 10% 0% 5%;
+}
+.headerText1 {
+  margin: 5% 10% 0% 25%;
+  font-size: 27px;
+  font-family: "Roboto", sans-serif;
+}
+#buttonText1 {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  color: rgb(33, 33, 33);
+}
+#project1 {
+  height: 500px;
+  width: 450px;
+  background-color: orange;
+  display: inline-block;
+  margin: 0px 20px 0px 0px;
+  opacity: 1;
+}
+#project1:hover {
+  background-image: url(/project-portfolio-RandyOfosu/img/mondriaan.png);
+  opacity: 1;
+}
+#project2 {
+  height: 500px;
+  width: 450px;
+  background-color: rgb(159, 103, 0);
+  display: inline-block;
+  margin: 0px 20px 0px 0px;
+}
+#project3 {
+  height: 500px;
+  width: 450px;
+  background-color: rgb(108, 70, 0);
+  display: inline-block;
+  margin: 0px 20px 0px 0px;
 }
