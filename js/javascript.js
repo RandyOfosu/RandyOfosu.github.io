@@ -5,7 +5,6 @@ function veranderKleur() {
   } else {
     document.getElementById("project2").style.backgroundColor = "blue";
   }
-
-  if (mijnProject.style.backgroundColor == "red") {
-  }
 }
+var d = new Date();
+document.getElementById("datum").innerHTML = d;

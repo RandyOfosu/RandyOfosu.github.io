@@ -32,16 +32,20 @@ body {
 }
 footer a {
   text-decoration: none;
+  color: rgb(191, 124, 0);
 }
 
 footer {
   position: fixed;
   left: 0;
   bottom: 0;
-  padding: 15px;
+  padding: 1px;
   width: 100%;
-  color: black;
+  color: white;
   text-align: center;
+  background-color: black;
+  /* display: flex;
+  justify-content: center; */
 }
 body {
   background-color: rgba(255, 186, 58, 0.29);
@@ -245,15 +249,7 @@ body {
   background-image: url(/project-portfolio-RandyOfosu/img/vlaggen.png);
   opacity: 1;
 }
-#hobby {
-  display: inline-block;
-  margin: 25px;
-}
-#hobby1 {
-  display: inline-block;
-  margin: 25px;
-}
-#hobby2 {
+.hobby {
   display: inline-block;
   margin: 25px;
 }
