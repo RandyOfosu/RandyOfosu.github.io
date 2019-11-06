@@ -64,7 +64,7 @@ body {
   align-content: center;
 }
 .introductie_koptekst {
-  margin: 5% 30% 0% 31%;
+  margin: 3% 30% 0% 31%;
   font-family: "Roboto", sans-serif;
   display: flex;
   justify-content: center;
@@ -73,19 +73,37 @@ body {
 
 .foto_gallerij {
   display: inline-block;
-  margin: 5% 12% 0% 25%;
+  margin: 1% 12% 4% 25%;
 }
 .foto2 {
-  width: 22%;
+  width: 40%;
   padding: 5px;
+  box-shadow: black 2px 2px 5px 1px;
+  transition: 1s;
 }
 .foto3 {
-  width: 22%;
+  width: 40%;
   padding: 5px;
+  box-shadow: black 2px 2px 5px 1px;
+  transition: 1s;
 }
 .foto6 {
-  width: 29.4%;
+  width: 81.5%;
   padding: 5px;
+  box-shadow: black 2px 2px 5px 1px;
+  transition: 1s;
+}
+.foto2:hover {
+  opacity: 0.8;
+  transition: 0.5s;
+}
+.foto3:hover {
+  opacity: 0.8;
+  transition: 0.5s;
+}
+.foto6:hover {
+  opacity: 0.8;
+  transition: 0.5s;
 }
 
 #contactgegevens {
@@ -261,6 +279,12 @@ body {
 }
 .image {
   display: block;
+  box-shadow: black -2px -2px 3px 1px;
+  transition: 1s;
+}
+.image:hover {
+  opacity: 0.9;
+  transition: 0.5s;
 }
 
 .text {
