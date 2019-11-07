@@ -7,9 +7,10 @@ body {
 }
 .navbar ul {
   width: 100%;
-  height: 50px;
+  height: 50.5px;
+
   background-image: url(/project-portfolio-RandyOfosu/img/Galaxybrain.jpg);
-  overflow: auto;
+  overflow: none;
   list-style-type: none;
   display: flex;
   justify-content: flex-start;
@@ -49,8 +50,6 @@ footer {
   color: white;
   text-align: center;
   background-color: black;
-  /* display: flex;
-  justify-content: center; */
 }
 body {
   background-color: rgba(255, 186, 58, 0.29);
@@ -334,7 +333,7 @@ body {
 }
 #likeButton1 {
   width: 85px;
-  height: 46px;
+  height: 47px;
   background-color: none;
   border-color: whitesmoke;
   display: flex;
